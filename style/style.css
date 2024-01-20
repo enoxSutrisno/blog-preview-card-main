@@ -20,7 +20,7 @@ body {
 }
 
 
-.wrapper {
+main {
      background-color: var(--yellow);
      height: 100vh;
      display: flex;
